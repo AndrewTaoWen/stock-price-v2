@@ -1,0 +1,6 @@
+venv
+
+.env
+
+linear_regression_model.pkl
+
